@@ -191,7 +191,7 @@ body {
 /* start About */
 
 .about {
-    background-image: url(/img/about-bg.422e0378637eab69704b.png);
+    background-image: url(../img/about-bg.422e0378637eab69704b.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 70px;
@@ -383,7 +383,7 @@ body {
 
 
 .feature {
-    background-image: url(/img/feature-bg.81d842ef3fe1930c955b.png);
+    background-image: url(../img/feature-bg.81d842ef3fe1930c955b.png);
     background-size: 100% 100%;
     min-height: 855px;
     position: relative;
@@ -529,7 +529,7 @@ body {
 /* Start Screenshot */
 
 .screenshot {
-    background-image: url(/img/screenshot-bg.a7bc3d5685c7846ba2ba.png);
+    background-image: url(../img/screenshot-bg.a7bc3d5685c7846ba2ba.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -100px;
@@ -673,7 +673,7 @@ body {
 /* Start Team */
 
 .team {
-    background-image: url(/img/team-bg.489b89c5d00222eabcba.png);
+    background-image: url(../img/team-bg.489b89c5d00222eabcba.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -790,7 +790,7 @@ body {
 }
 
 .team .card {
-    background-image: url(/img/team-img-bg.995db0cdb0e99cfd39eb.png);
+    background-image: url(../img/team-img-bg.995db0cdb0e99cfd39eb.png);
     width: 100%;
     height: auto;
 }
@@ -922,7 +922,7 @@ body {
 }
 
 .blog .card {
-    background-image: url(/img/team-img-bg.995db0cdb0e99cfd39eb.png);
+    background-image: url(../img/team-img-bg.995db0cdb0e99cfd39eb.png);
     width: 100%;
     height: auto;
     padding: 15px;
@@ -998,7 +998,7 @@ body {
 
 /* Start price */
 .price {
-   background-image: url(/img/price.f43c74964f73acc849a6.png);
+   background-image: url(../img/price.f43c74964f73acc849a6.png);
    position: relative;
    height: 100vh;
    background-size: cover;
@@ -1023,7 +1023,7 @@ body {
 }
 
 .price .card .price-type {
-    background-image: url(/img/price-bg.b824d3fba07722a2eb83.png);
+    background-image: url(../img/price-bg.b824d3fba07722a2eb83.png);
     background-size: cover;
     padding: 10px;
 }
@@ -1118,7 +1118,7 @@ body {
 /* Start testimonial */
 
 .testimonial {
-    background-image: url(/img/testimonial-bg.87684073c2e9f618302f.png);
+    background-image: url(../img/testimonial-bg.87684073c2e9f618302f.png);
     position: relative;
     height: 100vh;
     background-size: contain;
@@ -1208,7 +1208,7 @@ body {
 
 
 .testimonial .image img {
-    background-image: url(/img/Testimonial.1d138656ce80f62fc1c1.png);
+    background-image: url(../img/Testimonial.1d138656ce80f62fc1c1.png);
     border-radius: 100%;
     height: 125px;
     width: 125px;
@@ -1267,7 +1267,7 @@ body {
 /* start contact */
 
 .contact {
-    background-image: url(/img/Contact.8f36161376ce6af7011c.png);
+    background-image: url(../img/Contact.8f36161376ce6af7011c.png);
     position: relative;
     background-size: cover;
     height: 100vh;
